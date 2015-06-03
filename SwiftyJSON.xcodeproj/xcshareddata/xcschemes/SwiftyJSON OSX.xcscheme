@@ -15,17 +15,17 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9C7DFC5A1A9102BD005AA3F7"
-               BuildableName = "SwiftyJSON OSX.framework"
+               BuildableName = "SwiftyJSON.framework"
                BlueprintName = "SwiftyJSON OSX"
                ReferencedContainer = "container:SwiftyJSON.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
             buildForTesting = "YES"
-            buildForRunning = "YES"
+            buildForRunning = "NO"
             buildForProfiling = "NO"
             buildForArchiving = "NO"
-            buildForAnalyzing = "YES">
+            buildForAnalyzing = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9C7DFC641A9102BD005AA3F7"
@@ -57,7 +57,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9C7DFC5A1A9102BD005AA3F7"
-            BuildableName = "SwiftyJSON OSX.framework"
+            BuildableName = "SwiftyJSON.framework"
             BlueprintName = "SwiftyJSON OSX"
             ReferencedContainer = "container:SwiftyJSON.xcodeproj">
          </BuildableReference>
@@ -76,7 +76,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9C7DFC5A1A9102BD005AA3F7"
-            BuildableName = "SwiftyJSON OSX.framework"
+            BuildableName = "SwiftyJSON.framework"
             BlueprintName = "SwiftyJSON OSX"
             ReferencedContainer = "container:SwiftyJSON.xcodeproj">
          </BuildableReference>
@@ -94,7 +94,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9C7DFC5A1A9102BD005AA3F7"
-            BuildableName = "SwiftyJSON OSX.framework"
+            BuildableName = "SwiftyJSON.framework"
             BlueprintName = "SwiftyJSON OSX"
             ReferencedContainer = "container:SwiftyJSON.xcodeproj">
          </BuildableReference>
